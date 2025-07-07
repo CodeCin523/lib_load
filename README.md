@@ -23,3 +23,5 @@ To build the project, follow these steps:
 ## Note
 
 - The dynamic loading functionality using `dlfcn.h` is only available on Linux systems. Ensure you are using a compatible environment to utilize this feature.
+
+- These tests only works if you run them in their respective build directory, there is no path management done.
