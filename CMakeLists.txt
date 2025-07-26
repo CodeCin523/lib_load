@@ -9,4 +9,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_subdirectory(src/default)
 add_subdirectory(src/encrypt)
+add_subdirectory(src/multiApp)
 add_subdirectory(src/sharedFunc)
